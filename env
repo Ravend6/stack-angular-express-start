@@ -1,0 +1,12 @@
+# Rename this file to .env and set your settings
+
+NODE_ENV=development
+# NODE_ENV=production
+
+APP_PORT=3000
+APP_SITENAME=blog.dev
+APP_LANGUAGE=ru
+
+SECRET=c0b20b3cd221b2143c2d882c80019478bb183f857183a4df5cd673d074df481a
+
+MONGO_URI=mongodb://localhost:27017/mongoose-i18n-api
